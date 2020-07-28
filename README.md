@@ -4,7 +4,7 @@ Code fragment from [repl.it](https://repl.it/)
 
 - https://repl.it/@AlanSampson/CaringFavorablePublishers#main.sh
 
-## ChadJ
+## Chad
 
 A bash script to print this:
 
